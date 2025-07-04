@@ -1,0 +1,45 @@
+#: locale=en
+
+## Media
+
+### Floorplan
+
+### Image
+imlevel_CAE49894_D007_A2FC_41C6_0C8D4F215B02.url = media/map_C3DADC4A_D005_5FEE_41AC_63639EBF0D72_en_0.webp
+imlevel_CAE48894_D007_A2FC_41CC_A1675CD517A3.url = media/map_C3DADC4A_D005_5FEE_41AC_63639EBF0D72_en_1.webp
+imlevel_CAE4A894_D007_A2FC_41CF_0A01310CA656.url = media/map_C3DADC4A_D005_5FEE_41AC_63639EBF0D72_en_2.webp
+imlevel_CAE588B7_D007_A23D_41E6_E0DC04065E3B.url = media/map_C7204B95_D007_7945_41B4_5EA699DB2064_en_0.webp
+imlevel_CAE5B8B7_D007_A23D_41E2_23D26DF07B4B.url = media/map_C7204B95_D007_7945_41B4_5EA699DB2064_en_1.webp
+imlevel_CAE5A8B7_D007_A23D_41D2_2FCC14C1B8AD.url = media/map_C7204B95_D007_7945_41B4_5EA699DB2064_en_2.webp
+
+### Title
+video_C84DF851_D01A_E27E_41E3_EFAA8C5C2F51.label = 13136709-uhd_3840_2160_25fps
+map_C3DADC4A_D005_5FEE_41AC_63639EBF0D72.label = Sample_Floorplan
+panorama_DCD6F7DC_D006_A896_41C4_9CC1F5E66FD6.label = east
+map_C7204B95_D007_7945_41B4_5EA699DB2064.label = istockphoto-1939519987-612x612
+panorama_DB8F293E_D006_D992_41E6_ACFD89771170.label = north
+panorama_CA66370A_D007_6906_41E6_737303D3E108.label = shot-panoramic-composition-bedroom
+panorama_C95F0A02_D005_5B00_41E0_E5BDA3D92894.label = shot-panoramic-composition-living-room
+panorama_DB8EC1A4_D006_E8B6_41AF_74132E05D49E.label = south
+video_CA7F6D05_D007_DEFE_41D4_C8C8087976ED.label = vecteezy_dubai-uae-march-24-2022-the-nightly-panorama-of-funtain_20918871
+panorama_DB974095_D006_A896_41D8_D5878AC60982.label = west
+
+### Video
+videolevel_CAE75864_D007_A253_41D5_E1882BA7D15D.url = media/video_C84DF851_D01A_E27E_41E3_EFAA8C5C2F51_en.mp4
+videolevel_CAE75864_D007_A253_41D5_E1882BA7D15D.posterURL = media/video_C84DF851_D01A_E27E_41E3_EFAA8C5C2F51_poster_en.jpg
+videolevel_CAE7D842_D007_A254_41D4_7819D409AEEA.url = media/video_CA7F6D05_D007_DEFE_41D4_C8C8087976ED_en.mp4
+videolevel_CAE7D842_D007_A254_41D4_7819D409AEEA.posterURL = media/video_CA7F6D05_D007_DEFE_41D4_C8C8087976ED_poster_en.jpg
+
+### Video Subtitles
+
+## Skin
+
+### Button
+Button_CA4F63CE_D006_E90D_41D9_55A0B1619C70.label = TEXT BUTTON
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 3
